@@ -168,7 +168,7 @@
     <h2>Features</h2>
     <div class="feature-icons">
       <div class="feature-icon">
-        <img src="https://via.placeholder.com/80" alt="Icon">
+        <img src="ei_1738419084055-removebg-preview.png" alt="Icon">
         <p>Natural Language</p>
       </div>
       <div class="feature-icon">
