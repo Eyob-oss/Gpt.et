@@ -172,11 +172,11 @@
         <p>Natural Language</p>
       </div>
       <div class="feature-icon">
-        <img src="https://via.placeholder.com/80" alt="Icon">
+        <img src="ei_1738421302880-removebg-preview.png" alt="Icon">
         <p>Contextual Understanding</p>
       </div>
       <div class="feature-icon">
-        <img src="https://via.placeholder.com/80" alt="Icon">
+        <img src="ei_1738421327654-removebg-preview.png" alt="Icon">
         <p>Multi-Language Support</p>
       </div>
     </div>
